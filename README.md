@@ -17,9 +17,9 @@
 Third-year Psychology major (Philosophy minor) at the University of British Columbia,  
 with a soft spot for:
 
-- 🧠 **Clinical psychology & behavioural neuroscience**  
-- 💬 Mental health communication & community engagement  
-- 🎨 Designing cute, clear, student-friendly content  
+✨Clinical psychology & behavioural neuroscience  
+✨Mental health communication & community engagement  
+✨Designing cute, clear, student-friendly content  
 
 I love turning complex ideas into things that look like they belong on a pastel Pinterest board.
 
@@ -27,10 +27,10 @@ I love turning complex ideas into things that look like they belong on a pastel 
 
 ## 📚 Education
 
-### Bachelor of Arts — Psychology (Major), Philosophy (Minor)  
+### Bachelor of Arts 🧠 Psychology & 🧾Philosophy 
 **University of British Columbia** · 2022 – Present · Vancouver, BC  
 
-**a few favourite courses:**
+**A few favourite courses:**
 
 - PSYC 301 Brain Dysfunction & Recovery  
 - PSYC 300 Behavioural Disorders  
