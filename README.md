@@ -14,8 +14,7 @@
 
 ## About Me
 
-Third-year Psychology major (Philosophy minor) at the University of British Columbia,  
-with a soft spot for:
+Third-year Psychology major (Philosophy minor) at the University of British Columbia, with a soft spot for:
 
 ✨Clinical psychology & behavioural neuroscience  
 ✨Mental health communication & community engagement  
