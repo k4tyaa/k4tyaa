@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=126&section=header" alt="header"/> 
 <h2 align="center">Katyayani Singh /ᐠ｡ꞈ｡ᐟ\ </h1>
 
 <p align="center">
