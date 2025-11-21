@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=126&section=header" alt="header"/> 
-<h2 align="center">Katyayani Singh /ᐠ｡ꞈ｡ᐟ\ </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=126&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=FFC5D3" alt="header"/> 
+<h1 align="center">Katyayani Singh </h1>
 
 <p align="center">
   <b>Psychology @ UBC • Clinical & Behavioural Neuroscience • Mental Health & Community Work</b>
