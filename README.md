@@ -14,13 +14,13 @@
 
 ## About Me
 
-Third-year Psychology major (Philosophy minor) at the University of British Columbia, with a soft spot for:
+Fourth-year Psychology major (Philosophy minor) at the University of British Columbia, interested in:
 
 ✨Clinical psychology & behavioural neuroscience  
 ✨Mental health communication & community engagement  
 ✨Designing cute, clear, student-friendly content  
 
-I love turning complex ideas into things that look like they belong on a pastel Pinterest board.
+Learning
 
 ---
 
